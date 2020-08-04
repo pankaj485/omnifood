@@ -169,20 +169,7 @@ input[type='submit'] {
   margin-top: 18px;
 }
 
-.sticky-nav {
-  /* color: black; */
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: rgb(243, 243, 243, 0.98);
-}
 
-.sticky-nav .main-nav li a:link,
-.sticky-nav .main-nav li a:visited {
-  color: #555;
-  padding: 16px 0px;
-}
 
 .main-nav li {
   display: inline-block;
