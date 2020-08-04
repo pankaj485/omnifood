@@ -155,13 +155,7 @@ input[type='submit'] {
   margin: 5px 0px;
   border-radius: 50%;
 }
-.sticky-nav .logo {
-  display: none;
-}
-.sticky-nav .logo-black {
-  display: block;
-  box-shadow: 1px 1px 10px #b8b6b6;
-}
+
 /* LOGO END  */
 
 /* NAVIGATION BAR */
